@@ -3,13 +3,24 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.0.1",
+    "@material-ui/icons": "^4.0.1",
+    "@material-ui/styles": "^4.0.1",
     "@types/jest": "24.0.13",
     "@types/node": "12.0.2",
     "@types/react": "16.8.17",
     "@types/react-dom": "16.8.4",
+    "@types/requirejs": "^2.1.31",
+    "@types/three": "^0.93.31",
+    "clsx": "^1.0.4",
+    "gpucomputationrender-three": "^2.0.0",
+    "node-sass": "^4.12.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
+    "requirejs": "^2.3.6",
+    "three": "0.97",
+    "typeface-montserrat": "^0.0.54",
     "typescript": "3.4.5"
   },
   "scripts": {
@@ -37,6 +48,7 @@
   },
   "homepage": "http://slahser1992.github.io/resume",
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.0.1",
+    "tslint": "^5.16.0"
   }
 }

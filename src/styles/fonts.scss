@@ -1,0 +1,14 @@
+@import "~typeface-montserrat/index.css";
+
+$white-bg: #fefefe;
+$font-color: #292b2c;
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: $white-bg;
+  color: $font-color;
+  font-family: Montserrat,Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+}
