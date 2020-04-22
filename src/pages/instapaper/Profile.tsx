@@ -84,7 +84,37 @@ function ProfilePage() {
                 Abount Me
               </Typography>
               <Divider vertical/>
-              Hello World
+							<Typography>
+								<ul>
+									<li>
+										Four year experiecne, 2C, 2B & DevOps business.
+									</li>
+									<li>
+										Full stack developer, skilled use of HTML, Css, Less, Javascript, React.js, Mobx.js, Redux.js, Typescript, Koa, Express, TypeORM, MySQL, 
+										graphQL server side and graphQL client side for daily development. pm2 for deploy and webpack for building my source.
+									</li>
+									<li>
+										Keeping my skill enough to solve every problem which I encountered. 
+									</li>
+								</ul>
+							</Typography>
+							<Typography component={"h6"} variant={"h6"} lightWeight>
+                Experience
+              </Typography>
+							<Divider vertical />
+							<Typography>
+								<ul>
+									<li>
+										deloitte
+									</li>
+									<li>
+										timeline: 2016.01 - 2017.12
+									</li>
+									<li>
+										
+									</li>
+								</ul>
+							</Typography>
             </Grid>
           </Grid>
         </Box>
