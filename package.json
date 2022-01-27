@@ -20,7 +20,7 @@
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
     "requirejs": "^2.3.6",
-    "three": "0.97",
+    "three": "0.137",
     "typeface-montserrat": "^0.0.54",
     "typescript": "3.4.5"
   },
